@@ -11,6 +11,7 @@ sections:
         url: /contact
         style: secondary
         has_icon: true
+        icon: facebook
     image: images/hero.png
     image_alt: A smiling woman
     media_position: right
