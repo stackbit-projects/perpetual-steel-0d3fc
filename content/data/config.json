@@ -136,5 +136,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://perpetual-steel-0d3fc.netlify.app"
 }
